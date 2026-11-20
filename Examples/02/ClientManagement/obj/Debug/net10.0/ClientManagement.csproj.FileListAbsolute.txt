@@ -1,0 +1,15 @@
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\02\ClientManagement\bin\Debug\net10.0\ClientManagement.exe
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\02\ClientManagement\bin\Debug\net10.0\ClientManagement.deps.json
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\02\ClientManagement\bin\Debug\net10.0\ClientManagement.runtimeconfig.json
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\02\ClientManagement\bin\Debug\net10.0\ClientManagement.dll
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\02\ClientManagement\bin\Debug\net10.0\ClientManagement.pdb
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\02\ClientManagement\obj\Debug\net10.0\ClientManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\02\ClientManagement\obj\Debug\net10.0\ClientManagement.AssemblyInfoInputs.cache
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\02\ClientManagement\obj\Debug\net10.0\ClientManagement.AssemblyInfo.cs
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\02\ClientManagement\obj\Debug\net10.0\ClientManagement.csproj.CoreCompileInputs.cache
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\02\ClientManagement\obj\Debug\net10.0\ClientManagement.sourcelink.json
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\02\ClientManagement\obj\Debug\net10.0\ClientManagement.dll
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\02\ClientManagement\obj\Debug\net10.0\refint\ClientManagement.dll
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\02\ClientManagement\obj\Debug\net10.0\ClientManagement.pdb
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\02\ClientManagement\obj\Debug\net10.0\ClientManagement.genruntimeconfig.cache
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\02\ClientManagement\obj\Debug\net10.0\ref\ClientManagement.dll

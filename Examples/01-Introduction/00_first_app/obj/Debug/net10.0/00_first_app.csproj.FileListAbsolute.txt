@@ -1,0 +1,15 @@
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\00_first_app\bin\Debug\net10.0\00_first_app.exe
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\00_first_app\bin\Debug\net10.0\00_first_app.deps.json
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\00_first_app\bin\Debug\net10.0\00_first_app.runtimeconfig.json
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\00_first_app\bin\Debug\net10.0\00_first_app.dll
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\00_first_app\bin\Debug\net10.0\00_first_app.pdb
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\00_first_app\obj\Debug\net10.0\00_first_app.GeneratedMSBuildEditorConfig.editorconfig
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\00_first_app\obj\Debug\net10.0\00_first_app.AssemblyInfoInputs.cache
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\00_first_app\obj\Debug\net10.0\00_first_app.AssemblyInfo.cs
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\00_first_app\obj\Debug\net10.0\00_first_app.csproj.CoreCompileInputs.cache
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\00_first_app\obj\Debug\net10.0\00_first_app.sourcelink.json
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\00_first_app\obj\Debug\net10.0\00_first_app.dll
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\00_first_app\obj\Debug\net10.0\refint\00_first_app.dll
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\00_first_app\obj\Debug\net10.0\00_first_app.pdb
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\00_first_app\obj\Debug\net10.0\00_first_app.genruntimeconfig.cache
+D:\University - T\الكلية العالمية\OOP - IT 2 + CYS 2\OOP-Course-IT2-CYS2\Examples\00_first_app\obj\Debug\net10.0\ref\00_first_app.dll

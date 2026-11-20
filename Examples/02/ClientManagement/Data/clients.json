@@ -1,0 +1,14 @@
+[
+  {
+    "ClientId": 1,
+    "FullName": "Ahmed Mohammed Ali",
+    "PhoneNumber": "777123456",
+    "Email": "ahmed@gmail.com"
+  },
+  {
+    "ClientId": 2,
+    "FullName": "Mohammed Saleh",
+    "PhoneNumber": "777987654",
+    "Email": "mohammed@gmail.com"
+  }
+]
